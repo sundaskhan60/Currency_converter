@@ -1,6 +1,6 @@
 # Currency Converter
 
-A simple and responsive currency converter built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. It fetches real-time exchange rates using the [Exchange Rates API](https://open.er-api.com).
+A simple and responsive currency converter built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time exchange rates using the [Exchange Rates API](https://open.er-api.com).
 
 ## Features
 
@@ -11,7 +11,7 @@ A simple and responsive currency converter built using **HTML**, **CSS**, **Boot
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript
+- **Frontend**: HTML, CSS, JavaScript
 - **API**: [ExchangeRate-API](https://www.exchangerate-api.com/) for live currency conversion rates
 - **Libraries**:  
   - [Font Awesome](https://fontawesome.com) for icons  
